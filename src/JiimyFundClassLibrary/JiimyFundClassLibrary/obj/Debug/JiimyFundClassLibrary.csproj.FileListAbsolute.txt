@@ -1,4 +1,0 @@
-C:\inetpub\wwwroot\JimmyFund\jimmyfundclasslibrary\src\JiimyFundClassLibrary\JiimyFundClassLibrary\bin\Debug\JiimyFundClassLibrary.dll
-C:\inetpub\wwwroot\JimmyFund\jimmyfundclasslibrary\src\JiimyFundClassLibrary\JiimyFundClassLibrary\bin\Debug\JiimyFundClassLibrary.pdb
-C:\inetpub\wwwroot\JimmyFund\jimmyfundclasslibrary\src\JiimyFundClassLibrary\JiimyFundClassLibrary\obj\Debug\JiimyFundClassLibrary.dll
-C:\inetpub\wwwroot\JimmyFund\jimmyfundclasslibrary\src\JiimyFundClassLibrary\JiimyFundClassLibrary\obj\Debug\JiimyFundClassLibrary.pdb
